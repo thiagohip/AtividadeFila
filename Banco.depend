@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1691751823 source:/home/alunos/Downloads/Banco/Fila.cpp
+	<iostream>
+	"Fila.h"
+
+1691751771 /home/alunos/Downloads/Banco/Fila.h
+	<iostream>
+
